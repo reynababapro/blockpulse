@@ -13,7 +13,7 @@ BlockPulse is currently in active development. Only the latest version is suppor
 
 We take the security of BlockPulse seriously. If you discover a security vulnerability, please do **not** open a public Issue. Instead, follow the steps below:
 
-1.  **Email me:** Send a detailed description of the vulnerability to **[SENİN E-POSTA ADRESİN]**.
+1.  **Email me:** Send a detailed description of the vulnerability to **recaedits2@gmail.com**.
 2.  **Details to include:**
     *   Description of the vulnerability.
     *   Steps to reproduce the issue.
